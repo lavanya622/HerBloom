@@ -20,6 +20,17 @@ HerBloom is a pastel-inspired emotional wellness web application designed to off
 
 *Feature availability may depend on the project version and whether backend services are running.*
 
+## 🛠️ Technologies Used
+
+- **HTML5** – Structure of the application
+- **CSS3** – Styling, layouts, animations, and magical visual effects
+- **JavaScript (ES6+)** – Application logic and interactivity
+- **React.js** – Building reusable UI components
+- **Vite** – Fast development server and build tool
+- **Browser Local Storage** – Saving notes, reflections, and user preferences
+- **Python** – Backend support for the AI chat feature
+- **Git & GitHub** – Version control and project hosting
+
 ## 🧰 Tech Stack
 
 - React, JavaScript, Vite, CSS3
